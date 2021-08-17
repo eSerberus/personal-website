@@ -378,7 +378,7 @@ const srTop = ScrollReveal({
 });
 
 srTop.reveal(
-  `.home__data, .home__image, .home__social, .services__content, .project__title, .testimonial__container  `,
+  `.home__data, .home__image, .home__social, .services, .project__title, .testimonial__container  `,
   {
     interval: 200,
   }
